@@ -1,0 +1,42 @@
+body {
+    font-size: 14px;
+    background-color: hsl(0, 0, 90);
+}
+.top-bar {
+    padding: 10px 0;
+    font-size: 13px;
+}
+.separator {
+    border-left: 1px solid #ddd;
+    height: 20px;
+    margin: 0 15px;
+}
+.navbar-nav .nav-link {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+.btn-primary {
+    font-size: 14px;
+    padding: 5px 15px;
+}
+.img{
+    margin-left: -107px;
+}
+.on{
+    background-color: hsl(0, 0, 96);
+    display: flex;
+    justify-content: flex-end;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer ul {
+    padding: 0;
+}
+.footer ul li {
+    margin-bottom: 5px;
+}
+.footer img {
+    display: inline-block;
+}
